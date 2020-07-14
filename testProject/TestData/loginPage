@@ -1,0 +1,17 @@
+{
+   "001": [
+      {  "step": 1,
+         "type": "click",
+         "itemPath":"/html/body/div[1]/header/nav/div[1]/div/ul/li[2]/a"},
+      {  "step": 2,
+         "type": "input",
+         "itemPath":"/html/body/div[1]/div[2]/div/div[2]/div[1]/div/div/fieldset/form/div/div[1]/div[3]/div/button",
+         "value": "test@gmail.com"},
+      {  "step": 3,
+         "type": "click",
+         "itemPath":"/html/body/div[1]/div[2]/div/div[2]/div[1]/div/div/fieldset/form/div/div[1]/div[3]/div/button"}
+   ],
+   "002":[
+   ]
+
+}

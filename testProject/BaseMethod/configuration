@@ -1,0 +1,13 @@
+[BASE]
+HOMEPAGE=https://news.yahoo.co.jp/pickup/6362411
+CHROMEDRIVER=C:\\Users\\AnqiLi\\AppData\\Local\\Programs\\Python\\Python37\\chromedriver.exe
+
+[TC]
+TC_NM=0
+Sp_NM=1
+AC_NM=2
+Xp_NM=3
+IV_NM=4
+IVLEN_NM=5
+ER_NM=6
+AR_NM=7
